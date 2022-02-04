@@ -1,5 +1,5 @@
 # dots
-My personal dotfiles for fish, alacritty and starship
+My personal dotfiles for zsh, alacritty and starship
 
 # Installation
 
