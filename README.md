@@ -1,6 +1,7 @@
 # dots
 My personal dotfiles for zsh, alacritty and starship
 
+*NOTE: THIS IS A VERY PERSONAL CONFIG, I CANNOT ASSURE YOU THAT IT WILL WORK*
 # Installation
 
 1. Backup Your configs!
